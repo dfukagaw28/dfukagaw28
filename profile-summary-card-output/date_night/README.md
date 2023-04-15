@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/dfukagaw28/dfukagaw28/main/profile-summary-card-output/date_night/4-productive-time.svg)
-```
-
-    
